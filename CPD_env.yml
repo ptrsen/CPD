@@ -1,0 +1,14 @@
+name: CPD-env
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+  - pip=23.3
+  - ipykernel=6.28
+  - numpy=1.26
+  - pandas=2.2
+  - matplotlib=3.8
+  - seaborn=0.12
+  - requests=2.31.0
+  
+    
