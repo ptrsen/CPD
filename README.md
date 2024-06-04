@@ -1,5 +1,5 @@
 # CPD
-Python3 
+Python Course 
 
 ## Installation
 Create and activate the Conda environment:
