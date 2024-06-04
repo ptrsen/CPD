@@ -24,7 +24,7 @@ pytest tests/test_subproject1.py
 ```
 
 
-## others
+## Update, delete conda env
 
 ```sh
 conda env update --file CPD_env.yml
