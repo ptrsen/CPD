@@ -40,6 +40,9 @@ conda update conda -y
 conda install anaconda -y
 conda update anaconda -y
 
+# Configure conda to not auto-activate base environment
+conda config --set auto_activate_base false
+
 # Check base conda env
 conda init
 conda deactivate
