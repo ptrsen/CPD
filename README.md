@@ -13,14 +13,14 @@ conda activate CPD_env
 Run the main script:
 
 ```sh
-python src/subproject1/main.py
+python src/subproject/main.py
 ```
 
 ## Testing
 Run the tests
 
 ```sh
-pytest tests/test_subproject1.py
+pytest tests/test_subproject.py
 ```
 
 
