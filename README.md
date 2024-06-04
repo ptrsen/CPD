@@ -22,3 +22,13 @@ Run the tests
 ```sh
 pytest tests/test_subproject1.py
 ```
+
+
+## others
+
+```sh
+conda env update --file CPD_env.yml
+conda deactivate CPD_env
+conda info --envs
+conda env remove --name CPD_env --all
+```
