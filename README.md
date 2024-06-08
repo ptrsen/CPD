@@ -1,8 +1,10 @@
 # CPD
-Python Course 
+
+Python Course
 
 ## Installation
-Create and activate the Conda environment:
+
+Create and activate conda environment:
 
 ```sh
 conda env create -f CPD_env.yml
@@ -10,21 +12,23 @@ conda activate CPD_env
 ```
 
 ## Usage
+
 Run the main script:
 
 ```sh
-python src/subproject/main.py
+python src/subproject/module.py
 ```
 
 ## Testing
+
 Run the tests
 
 ```sh
+pytest
 pytest tests/test_subproject.py
 ```
 
-
-## Update, delete conda env
+## Others: update, delete conda enviroment
 
 ```sh
 conda info --envs

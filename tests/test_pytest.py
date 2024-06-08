@@ -1,4 +1,4 @@
-from src.S1_basics1.basics import basics
+from src.pytest.functions import basics
 
 
 def test_basics():
