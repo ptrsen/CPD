@@ -1,5 +1,4 @@
-
-# Numbers data types: Integers (int) and Floating point (float)
+# Integers (int) and Floating point (float) numbers
 print("\nPython - Numbers: ")
 print('int: ', 42) 
 print('int: ', -42) # Negative int
@@ -43,5 +42,5 @@ print("\nPython - Other numbers ")
 # Complex Numbers
 complex() 
 # Binary numbers
-print(bin(5))
-print(int("0b101", 2)) # ("number", base of number)
+print(bin(5)) # convert integer 5 to binary (base 2)
+print(int("0b101", 2)) # convert binary 0b101 to integer, ("number", base of number)
